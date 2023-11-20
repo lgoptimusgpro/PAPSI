@@ -983,10 +983,12 @@ link:focus,
   font-family: "poppins";
   text-align: center;
   padding: 2px;
-  color: #fff;
+  color: #ffffff;
   top: 0;
   left: 0;
   text-transform: uppercase;
+  background-color: #333; /* You can change this color to your preference */
+  border-radius: 5px; /* Optional: Adds rounded corners to the background */
 }
 
 .card-date span {
